@@ -5,6 +5,7 @@ const Info = ({value}) => {
     
   return(
       <></>
+      )
 }
 
 export default Info
