@@ -1,5 +1,5 @@
 import React from 'react'
-import data from '/Users/ishankhurana/Desktop/portfolio/components/Projects/projectdata.json';
+
 import style from './info.module.css';
 const Info = ({value}) => {
     
